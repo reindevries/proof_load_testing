@@ -1,0 +1,5 @@
+This source code is distributed under the European Union Public Licence, version 1.2 (EUPL-1.2).
+You may obtain a copy of the licence at:
+https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
+
+Not intended for commercial use.
