@@ -4,7 +4,7 @@
 
 ## General information
 
-Welcome to the repository of the dissertation _Structural reliability updating through proof load testing_. The dissertation followed from the PhD project _Probabilistic substantiation of proof load testing_ executed at the Concrete Structures department of the Delft University of Technology (TUD) from 1 September 2020 to 1 September 2025. The project number is CS3B09, and the Directorate-General for Public Works and Water Management (Rijkswaterstaat, RWS) has financed the work. This project was a collaboration between TUD, TNO and RWS.
+Welcome to the repository of the dissertation _Structural reliability updating through proof load testing_. The dissertation followed from the PhD project _Probabilistic substantiation of proof load testing_ executed at the Concrete Structures department of the Delft University of Technology (TUD) from 1 September 2020 to 1 September 2025. The project number is CS3B09, and the Directorate-General for Public Works and Water Management (Rijkswaterstaat, RWS) has financed the work. This project was a collaboration between [TUD](https://www.tudelft.nl/), [TNO](https://www.tno.nl) and [RWS](https://www.rijkswaterstaat.nl/).
 
 In this repository, you can find the data and code for the dissertation, as well as the dissertation itself (see the download links below). The descriptions of the data and code can be found in the README.txt file in each subfolder.
 
