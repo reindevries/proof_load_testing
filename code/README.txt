@@ -91,5 +91,5 @@ Description of files:
   in Table 6.5.
 
 Contacts:
-• Rein de Vries <rein.devries@tno.nl>
-• Eva Lantsogt <e.o.l.lantsoght@tudelft.nl>
+• Rein de Vries, rein.devries MONKEY TAIL tno.nl
+• Eva Lantsogt, e.o.l.lantsoght MONKEY TAIL tudelft.nl

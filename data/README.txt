@@ -66,6 +66,6 @@ characterise the load effect from trucks statistically. This dataset may be obta
 Martin Nijgh of RWS, specifying the intended usage of the data.
 
 Contacts:
-• Rein de Vries <rein.devries@tno.nl>
-• Eva Lantsogt <e.o.l.lantsoght@tudelft.nl>
-• Martin Nijgh <martin.nijgh@rws.nl>
+• Rein de Vries, rein.devries MONKEY TAIL tno.nl
+• Eva Lantsogt, e.o.l.lantsoght MONKEY TAIL tudelft.nl
+• Martin Nijgh, martin.nijgh MONKEY TAIL rws.nl
