@@ -21,3 +21,9 @@ The PhD defence ceremony will take place on **Wednesday 15 April 2026** in the a
 - [Dissertation](https://raw.githubusercontent.com/reindevries/proof_load_testing/main/dissertation_proof_load_testing_rein_de_vries.pdf)
 
 - Propositions (to be provided)
+
+## Contact
+
+Please get in touch if you have any questions about the proof load testing, its link to structural reliability, or opportunities for applying the proposed procedures.
+
+![image](https://raw.githubusercontent.com/reindevries/proof_load_testing/main/email.png)
