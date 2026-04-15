@@ -16,11 +16,15 @@ The PhD defence ceremony will take place on **Wednesday 15 April 2026** in the a
 - 17:30 - PhD defence ceremony at [TU Delft Aula](https://map.tudelftcampus.nl/nl/poi/aula-congrescentrum/)
 - 19:00 - End of the ceremony
 
+Defence ceremony **livestream**: [NMC Live link](https://nmclive.tudelft.nl/mediasite/play/0d832bb0040f455c91d66ca3405c50af1d)
+
 ## Download links
 
 - [Dissertation](https://raw.githubusercontent.com/reindevries/proof_load_testing/main/dissertation_proof_load_testing_rein_de_vries.pdf)
 
-- Propositions (to be provided)
+- [Propositions](https://raw.githubusercontent.com/reindevries/proof_load_testing/main/propositions.pdf)
+
+- [Defence presentation](https://raw.githubusercontent.com/reindevries/proof_load_testing/main/presentation.pdf)
 
 ## Contact
 
